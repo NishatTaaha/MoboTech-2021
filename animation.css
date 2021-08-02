@@ -1,0 +1,36 @@
+@keyframes background {
+    0%{
+        background-image: url(images/home1.png);
+    }
+    25% {
+        background-image: url(images/home2.png);
+    }
+    50% {
+        background-image: url(images/home3.png);
+    }
+    75% {
+        background-image: url(images/home4.png);
+    }
+    100% {
+        background-image: url(images/home5.png);
+    }
+  }
+
+
+  /* @keyframes aboutImage {
+    0%{
+        background-image: url(images/about3.jpg);
+    }
+    25% {
+        background-image: url(images/about2.jpg);
+    }
+    50% {
+        background-image: url(images/about1.jpg);
+    }
+    75% {
+        background-image: url(images/about4.jpg);
+    }
+    100% {
+        background-image: url(images/about5.jpg);
+    }
+  } */
